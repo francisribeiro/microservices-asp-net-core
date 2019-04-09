@@ -1,0 +1,14 @@
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\bin\Debug\netcoreapp2.1\LocationService.deps.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\bin\Debug\netcoreapp2.1\LocationService.runtimeconfig.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\bin\Debug\netcoreapp2.1\LocationService.runtimeconfig.dev.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\bin\Debug\netcoreapp2.1\LocationService.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\bin\Debug\netcoreapp2.1\LocationService.pdb
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.csprojAssemblyReference.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.csproj.CoreCompileInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.RazorAssemblyInfo.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.RazorAssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.AssemblyInfoInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.AssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.RazorTargetAssemblyInfo.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService\obj\Debug\netcoreapp2.1\LocationService.pdb

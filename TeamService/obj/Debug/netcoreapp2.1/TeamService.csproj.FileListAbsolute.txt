@@ -1,0 +1,13 @@
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\bin\Debug\netcoreapp2.1\TeamService.deps.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\bin\Debug\netcoreapp2.1\TeamService.runtimeconfig.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\bin\Debug\netcoreapp2.1\TeamService.runtimeconfig.dev.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\bin\Debug\netcoreapp2.1\TeamService.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\bin\Debug\netcoreapp2.1\TeamService.pdb
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.csproj.CoreCompileInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.RazorAssemblyInfo.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.RazorAssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.AssemblyInfoInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.AssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.RazorTargetAssemblyInfo.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService\obj\Debug\netcoreapp2.1\TeamService.pdb

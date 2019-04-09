@@ -1,0 +1,17 @@
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.Tests.deps.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.Tests.runtimeconfig.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.Tests.runtimeconfig.dev.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.Tests.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.Tests.pdb
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\bin\Debug\netcoreapp2.1\TeamService.pdb
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.csprojAssemblyReference.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.AssemblyInfoInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.AssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.csproj.CopyComplete
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\TeamService.Tests\obj\Debug\netcoreapp2.1\TeamService.Tests.pdb

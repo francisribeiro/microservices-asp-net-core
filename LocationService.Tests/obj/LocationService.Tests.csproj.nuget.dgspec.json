@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService.Tests\\LocationService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService.Tests\\LocationService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService.Tests\\LocationService.Tests.csproj",
+        "projectName": "LocationService.Tests",
+        "projectPath": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService.Tests\\LocationService.Tests.csproj",
+        "packagesPath": "C:\\Users\\francis.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\francis.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\LocationService.csproj": {
+                "projectPath": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\LocationService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\LocationService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\LocationService.csproj",
+        "projectName": "LocationService",
+        "projectPath": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\LocationService.csproj",
+        "packagesPath": "C:\\Users\\francis.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\francis.silva\\Desktop\\Unidas\\Estudo\\Microservices\\Projetos\\StatlerWaldorfCorp\\LocationService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\francis.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

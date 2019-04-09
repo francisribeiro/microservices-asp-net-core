@@ -1,0 +1,14 @@
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\LocationService.Tests.Integration.deps.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\LocationService.Tests.Integration.runtimeconfig.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\LocationService.Tests.Integration.runtimeconfig.dev.json
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\LocationService.Tests.Integration.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\bin\Debug\netcoreapp2.1\LocationService.Tests.Integration.pdb
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.csprojAssemblyReference.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.AssemblyInfoInputs.cache
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.AssemblyInfo.cs
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.dll
+C:\Users\francis.silva\Desktop\Unidas\Estudo\Microservices\Projetos\StatlerWaldorfCorp\LocationService.Tests.Integration\obj\Debug\netcoreapp2.1\LocationService.Tests.Integration.pdb
