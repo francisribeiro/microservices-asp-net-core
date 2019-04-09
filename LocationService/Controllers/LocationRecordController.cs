@@ -7,7 +7,6 @@ namespace LocationService.Controllers
     [Route("locations/{memberId}")]
     public class LocationRecordController : ControllerBase
     {
-
         private readonly ILocationRecordRepository locationRepository;
 
         public LocationRecordController(ILocationRecordRepository repository)

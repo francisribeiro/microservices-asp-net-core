@@ -9,11 +9,11 @@ namespace TeamService.Controllers
     [ApiController]
     public class TeamsController : ControllerBase
     {
-        readonly ITeamRepository _teamRepository;
+        private readonly ITeamRepository _teamRepository;
 
-        public TeamsController(ITeamRepository repository)
+        public TeamsController(ITeamRepository teamRepository)
         {
-            _teamRepository = repository;
+            _teamRepository = teamRepository;
         }
 
         [HttpGet]

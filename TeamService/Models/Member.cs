@@ -8,10 +8,7 @@ namespace TeamService.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public Member()
-        {
-
-        }
+        public Member() { }
 
         public Member(Guid id) : this()
         {

@@ -6,10 +6,7 @@ namespace TeamService.Tests
 {
     public class TestMemoryTeamRepository : MemoryTeamRepository
     {
-        public TestMemoryTeamRepository() : base(CreateInitialFake())
-        {
-
-        }
+        public TestMemoryTeamRepository() : base(CreateInitialFake()) { }
 
         private static ICollection<Team> CreateInitialFake()
         {

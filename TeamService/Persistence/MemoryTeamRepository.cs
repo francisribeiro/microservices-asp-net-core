@@ -48,12 +48,12 @@ namespace TeamService.Persistence
 
         public Team Delete(Guid id)
         {
-            var q = teams.Where(t => t.ID == id);
+            var query = teams.Where(t => t.ID == id);
             Team team = null;
 
-            if (q.Count() > 0)
+            if (query.Count() > 0)
             {
-                team = q.First();
+                team = query.First();
                 teams.Remove(team);
             }
 
