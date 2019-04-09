@@ -5,6 +5,7 @@ using System;
 namespace LocationService.Controllers
 {
     [Route("locations/{memberId}")]
+    [ApiController]
     public class LocationRecordController : ControllerBase
     {
         private readonly ILocationRecordRepository locationRepository;

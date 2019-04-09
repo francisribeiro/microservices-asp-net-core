@@ -8,7 +8,8 @@ using TeamService.Persistence;
 
 namespace TeamService.Controllers
 {
-    [Route("/teams/{teamId}/[controller]")]
+    [Route("/teams/{teamID}/[controller]")]
+    [ApiController]
     public class MembersController : ControllerBase
     {
         private readonly ITeamRepository _teamRepository;
@@ -31,8 +32,7 @@ namespace TeamService.Controllers
             return Ok(team.Members);
         }
 
-        [HttpGet]
-        [Route("/teams/{teamId}/[controller]/{memberId}")]
+        [HttpGet("/teams/{teamID}/[controller]/{memberId}")]
         public async virtual Task<IActionResult> GetMember(Guid teamID, Guid memberId)
         {
             var team = _teamRepository.Get(teamID);
@@ -56,8 +56,7 @@ namespace TeamService.Controllers
             });
         }
 
-        [HttpGet]
-        [Route("/members/{memberId}/team")]
+        [HttpGet("/members/{memberId}/team")]
         public IActionResult GetMemberTeamId(Guid memberId)
         {
             var result = GetTeamIdForMember(memberId);
@@ -68,8 +67,7 @@ namespace TeamService.Controllers
             return NotFound();
         }
 
-        [HttpPut]
-        [Route("/teams/{teamId}/[controller]/{memberId}")]
+        [HttpPut("/teams/{teamID}/[controller]/{memberId}")]
         public virtual IActionResult UpdateMember([FromBody]Member updatedMember, Guid teamID, Guid memberId)
         {
             var team = _teamRepository.Get(teamID);

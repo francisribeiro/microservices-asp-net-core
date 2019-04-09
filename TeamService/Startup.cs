@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Rewrite;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Swashbuckle.AspNetCore.Swagger;
 using TeamService.LocationClient;
 using TeamService.Persistence;
 
@@ -38,6 +40,7 @@ namespace TeamService
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddScoped<ITeamRepository, MemoryTeamRepository>();
+            services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new Info { Title = "API Team", Version = "v1" }); });
 
             var locationUrl = _configuration.GetSection("location:url").Value;
             _logger.LogInformation("Using {0} for location service URL.", locationUrl);
@@ -48,16 +51,19 @@ namespace TeamService
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
-            {
                 app.UseDeveloperExceptionPage();
-            }
             else
-            {
                 app.UseHsts();
-            }
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            app.UseMvc(routes => { routes.MapRoute(name: "DefaultApi", template: "{controller=Values}/{id?}"); });
+
+            app.UseSwagger();
+            app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Team"); });
+
+            var option = new RewriteOptions();
+            option.AddRedirect("^$", "swagger");
+            app.UseRewriter(option);
         }
     }
 }
