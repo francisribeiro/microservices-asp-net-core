@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Rewrite;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
@@ -12,18 +13,22 @@ namespace LocationService
 {
     public class Startup
     {
+        public IConfiguration _configuration { get; }
+
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            _configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var connectionString = _configuration["ConnectionStrings:SqlConnectionString"];
+            services.AddDbContext<LocationDbContext>(options => options.UseSqlServer(connectionString));
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddScoped<ILocationRecordRepository, InMemoryLocationRecordRepository>();
+            services.AddScoped<ILocationRecordRepository, LocationRecordRepository>();
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new Info { Title = "API Location", Version = "v1" }); });
         }
 
